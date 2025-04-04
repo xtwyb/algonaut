@@ -1,0 +1,14 @@
+{
+  "Copyright Header": {
+    "prefix": "copyright-header",
+    "body": [
+	"# Copyright (c) 2025 WangYibo <xtwyb@163.com>",
+	"# 本代码采用 CC BY-NC-SA 4.0 协议，禁止商业用途（作者授权除外）",
+	"# 详情参见项目根目录 LICENSE 文件",
+	"# 编写日期: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}",
+	"# 代码描述: ${1:功能简述}",
+	""
+    ],
+    "description": "插入版权声明与协议信息"
+  }
+}
